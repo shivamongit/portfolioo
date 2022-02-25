@@ -15,7 +15,7 @@ const greeting = {
   // nickname: "harry / picleric",
   full_name: "Shivam Shasheesh",
   subTitle:
-    "Aspiring Full Stack Developer,based in New Delhi.",
+    "Full Stack Developer,based in New Delhi.",
   resumeLink:
     "https://drive.google.com/file/d/1P-oP3aATTchfEzfag1W_3LUqv5OVMEdU/view?usp=sharing",
   mail: "shivam.akka@outlook.com",
